@@ -1,0 +1,7 @@
+package vecspace
+
+sourcedir = src
+
+modules = Main
+
+opts = "-p contrib"
